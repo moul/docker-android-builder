@@ -8,3 +8,4 @@ Links
 - https://wiki.linaro.org/Platform/Android/PortingToNewBoard
 - https://source.android.com/source/building-running.html
 - https://source.android.com/source/initializing.html
+- http://www.opersys.com/blog/headless-android-1
