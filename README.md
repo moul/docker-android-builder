@@ -1,5 +1,8 @@
 docker-android-builder
 ======================
+
+[![GuardRails badge](https://badges.production.guardrails.io/moul/docker-android-builder.svg)](https://www.guardrails.io)
+
 Android OS build toolchain in Docker
 
 Links
